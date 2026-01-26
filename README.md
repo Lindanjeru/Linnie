@@ -1,2 +1,3 @@
-# Linnie
-Linda Njeru on Github
+# Linnie 
+Linda Njeru on Github for getting better at Programming in Python
+
