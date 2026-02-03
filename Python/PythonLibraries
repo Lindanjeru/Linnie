@@ -1,2 +1,7 @@
 import sys
-print ("hello, my name is", sys.argv[1])
+
+try:
+    name = sys.argv[1]
+    print(f"Hello, my name is {name}")
+except IndexError:
+    print("Please provide your name as an argument.")
